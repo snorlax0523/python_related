@@ -1,1 +1,1 @@
-# python_related
+# 파이썬과 관련된 내용을 올리는 repo입니다.
